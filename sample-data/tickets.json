@@ -1,0 +1,47 @@
+[
+  {
+    "customer": {
+      "name": "Rahul Sharma",
+      "email": "rahul.sharma@example.com",
+      "phone": "+91 98765 43210"
+    },
+    "message": "My payment was deducted from my account but my order is still showing pending. Please verify and confirm.",
+    "status": "Pending"
+  },
+  {
+    "customer": {
+      "name": "Priya Patel",
+      "email": "priya.patel@example.com",
+      "phone": "+91 91234 56780"
+    },
+    "message": "I cannot log into my account. The password reset link expires before I can submit the new password.",
+    "status": "Pending"
+  },
+  {
+    "customer": {
+      "name": "Arjun Verma",
+      "email": "arjun.verma@example.com",
+      "phone": "+91 98451 23456"
+    },
+    "message": "My delivery is delayed by three days and the tracking portal shows no movement since Monday.",
+    "status": "In Progress"
+  },
+  {
+    "customer": {
+      "name": "Ananya Roy",
+      "email": "ananya.roy@example.com",
+      "phone": "+91 99887 76655"
+    },
+    "message": "I requested a refund for order #4829 two weeks ago but have not received it in my bank account.",
+    "status": "Pending"
+  },
+  {
+    "customer": {
+      "name": "Kiran Kumar",
+      "email": "kiran.kumar@example.com",
+      "phone": "+91 97766 55443"
+    },
+    "message": "The application shows a 500 error code whenever I attempt to click 'Place Order' on the checkout page.",
+    "status": "In Progress"
+  }
+]
